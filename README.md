@@ -38,7 +38,7 @@ This repository houses my **Data Science Internship** projects completed at **Co
 | 👤 **Intern** | Piyush Ramteke |
 | 🏢 **Organization** | CodSoft |
 | 📂 **Domain** | Data Science & Machine Learning |
-| 🛠️ **Tech Stack** | Python, Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn |
+| 🛠️ **Tech Stack** | Python, Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn, Plotly, Ipywidgets |
 | 📅 **Duration** | February 2026 |
 
 </div>
@@ -66,6 +66,10 @@ This repository houses my **Data Science Internship** projects completed at **Co
 ![Type](https://img.shields.io/badge/TYPE-CLASSIFICATION-FFD700?style=for-the-badge&labelColor=000000)
 
 </div>
+
+#### 🌟 New Interactive Features!
+- **Interactive Charts:** Explore survival rates dynamically with Plotly pie charts and histograms.
+- **Widgets:** Filter data by gender, class, and embarkation point using interactive dropdowns.
 
 #### 📜 Overview
 
@@ -123,6 +127,10 @@ Build a predictive model to determine whether a passenger would survive the Tita
 
 </div>
 
+#### 🌟 New Interactive Features!
+- **3D Visualizations:** Explore the relationship between Sales, TV, and Radio spend in a 3D scatter plot.
+- **Sales Predictor:** Use the interactive widget to predict sales in real-time by adjusting advertising budgets.
+
 #### 📜 Overview
 
 > Forecasting product sales based on advertising expenditure across TV, Radio, and Newspaper channels. Helps businesses optimize advertising strategies and maximize sales potential through data-driven decisions.
@@ -176,10 +184,16 @@ Predict the amount of product sales based on advertising budgets across multiple
 
 <div align="center">
 
-![Status](https://img.shields.io/badge/STATUS-🔜%20COMING%20SOON-808080?style=for-the-badge&labelColor=000000)
-![Type](https://img.shields.io/badge/TYPE-CLASSIFICATION-808080?style=for-the-badge&labelColor=000000)
+![Status](https://img.shields.io/badge/STATUS-✅%20COMPLETED-FFD700?style=for-the-badge&labelColor=000000)
+![Type](https://img.shields.io/badge/TYPE-CLASSIFICATION-FFD700?style=for-the-badge&labelColor=000000)
 
 </div>
+
+#### 🌟 New Interactive Features!
+- **Class Imbalance Visualization:** Interactive donut chart showing the disparity between fraud and genuine transactions.
+- **Feature Explorer:** Widget to inspect distribution of anonymized features for fraud vs. genuine cases.
+- **Confusion Matrix:** Interactive heatmap to analyze model performance.
+
 
 #### 📜 Overview
 
@@ -208,7 +222,7 @@ Predict the amount of product sales based on advertising budgets across multiple
 |:---:|:---|
 | 💻 **Language** | ![Python](https://img.shields.io/badge/Python_3-000000?style=flat-square&logo=python&logoColor=FFD700) |
 | 📊 **Data Analysis** | ![Pandas](https://img.shields.io/badge/Pandas-000000?style=flat-square&logo=pandas&logoColor=FFD700) ![NumPy](https://img.shields.io/badge/NumPy-000000?style=flat-square&logo=numpy&logoColor=FFD700) |
-| 📈 **Visualization** | ![Matplotlib](https://img.shields.io/badge/Matplotlib-000000?style=flat-square&logo=plotly&logoColor=FFD700) ![Seaborn](https://img.shields.io/badge/Seaborn-000000?style=flat-square&logo=python&logoColor=FFD700) |
+| 📈 **Visualization** | ![Matplotlib](https://img.shields.io/badge/Matplotlib-000000?style=flat-square&logo=plotly&logoColor=FFD700) ![Seaborn](https://img.shields.io/badge/Seaborn-000000?style=flat-square&logo=python&logoColor=FFD700) ![Plotly](https://img.shields.io/badge/Plotly-000000?style=flat-square&logo=plotly&logoColor=FFD700) |
 | 🤖 **Machine Learning** | ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-000000?style=flat-square&logo=scikit-learn&logoColor=FFD700) |
 | 📓 **Environment** | ![Jupyter](https://img.shields.io/badge/Jupyter_Notebook-000000?style=flat-square&logo=jupyter&logoColor=FFD700) |
 | 🗃️ **Version Control** | ![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=FFD700) ![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=FFD700) |
@@ -227,7 +241,7 @@ git clone https://github.com/Piyu242005/CODSOFT-INTERNSHIP-DATA-SCIENTIST.git
 cd CODSOFT-INTERNSHIP-DATA-SCIENTIST
 
 # 3. Install dependencies
-pip install numpy pandas matplotlib seaborn scikit-learn scipy
+pip install numpy pandas matplotlib seaborn scikit-learn scipy plotly ipywidgets
 
 # 4. Open any project notebook
 jupyter notebook
