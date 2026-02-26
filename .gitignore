@@ -1,0 +1,6 @@
+# Ignore large datasets
+creditcard.csv
+*.csv
+
+# Ignore jupyter notebook checkpoints
+.ipynb_checkpoints/
